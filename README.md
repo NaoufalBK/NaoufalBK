@@ -5,11 +5,11 @@
 
 ### Hi there 👋
 
-I'm Alaoui Mohammed El Mehdi, a passionate college student with a keen interest in software engineering and technology. Currently pursuing an engeneering degree at IMT atlantique, I thrive on turning ideas into reality through code.
+I am BENKMIL Naoufal, I am currently a second-year student at IMT Atlantique, seeking a 4 to 5-month internship starting in early April. With a passion for data science, web development, and software engineering, I am eager to apply my knowledge and skills in a professional setting. I am enthusiastic about leveraging innovative technologies to tackle real-world challenges and contribute meaningfully to impactful projects. I am eager to collaborate with forward-thinking teams and immerse myself in dynamic environments where I can continue to learn and grow.
 
 ### 🚀 What I'm up to:
 
-- 🎓 Studying Software developpement and machine learning
+- 🎓 Studying Software developpement 
 - 🌐 Learning and contributing to open-source projects
 - 📚 Seeking new challenges and opportunities to grow
 
@@ -21,7 +21,7 @@ I'm Alaoui Mohammed El Mehdi, a passionate college student with a keen interest 
 
 ### 🤝 Let's connect!
 
-- LinkedIn: https://www.linkedin.com/in/mohammed-el-mehdi-alaoui-704822251/
+- LinkedIn:
 
 ---
 
